@@ -1,6 +1,9 @@
 # Functional RoadBot
 eYantra certificate: https://drive.google.com/file/d/13QRf1CVzO5yDVhWpT11MCx9_RboNId4D/view
 
+![image](https://github.com/user-attachments/assets/285d6397-4e7b-45ec-a79a-48e71dfa0c40)
+
+
 # Theme Description
 
 In this theme the Functional RoadBot constantly works to assess the road and tries to work on the
